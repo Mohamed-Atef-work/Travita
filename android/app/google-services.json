@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "970446482460",
+    "project_id": "travita-e8f97",
+    "storage_bucket": "travita-e8f97.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970446482460:android:d1fa60b1d9d639baa843d9",
+        "android_client_info": {
+          "package_name": "com.example.travita"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "970446482460-0qdf17n1roi1be4h1l4fcbafchvbpk73.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.travita",
+            "certificate_hash": "560d83cf9753fc8eb019f495d3807b3c87cf8756"
+          }
+        },
+        {
+          "client_id": "970446482460-aega5g4lqk9pfi482bacnl9k7qgc6jft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjHoFFjskwB_X8BpgN9QF-Yq2oVkgK0nU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "970446482460-aega5g4lqk9pfi482bacnl9k7qgc6jft.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "970446482460-t0dor8hrp42e279q9urgb1fs4812gp29.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.travita"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
